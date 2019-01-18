@@ -25,7 +25,7 @@ This Program is for the beginners who are looking for different kinds of Sorting
 [Java 1.7](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html) or above version\
  [NetBeans 7.1.1](https://netbeans.org/downloads/7.1.1/) or above 
  
- #### Structre
+ #### Structure
  The program has differnt class and one main class which calls all the other functions of differnt class.\
 Java file named MainCalling.java has the main method and needs to be run when required.
 
